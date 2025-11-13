@@ -1,1 +1,1 @@
-# floats-layout-example
+Example of basic website navigation.
